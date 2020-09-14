@@ -30,11 +30,9 @@ Previous Experience: <a href="https://www.kony.com/"><img alt="Kony" height="20p
 
 **Language and Tools:**
 
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="JavaScript" width="26px" src=resources/tech/javascript.png />
+<img alt="MongoDB" width="26px" src=resources/tech/mongodb.png />
+<img alt="ReactJS" width="26px" src=resources/tech/reactjs.png />
 
 <br><br>
 <div align="center">
