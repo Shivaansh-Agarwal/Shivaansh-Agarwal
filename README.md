@@ -3,7 +3,7 @@
 </div>
 
 <em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>&nbsp; Software Engineer at &nbsp; <a href="https://www.temenos.com/"><img alt="Temenos" height="15px" width="60px" src=resources/logos/temenos.png /></a></em>
-<br><br>
+<br>
 <em>🌏 Hyderabad, India 🇮🇳</em>
 
 
