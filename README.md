@@ -7,7 +7,7 @@
 <em>🌏 Hyderabad, India 🇮🇳</em>
 
 
-### Glad to see you here! &nbsp; 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Shivaansh-Agarwal.Shivaansh-Agarwal)
 
 [<img align="right" alt="IBM Badge" width="150px" src="resources/logos/Data_Science_4-Star_Graduate.png">](https://www.youracclaim.com/badges/1de4e24e-996d-4795-b028-4a31498cc92f/linked_in_profile)
 
