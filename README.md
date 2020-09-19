@@ -1,12 +1,11 @@
-
 <div>
 <h2>Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://github.com/Shivaansh-Agarwal">Shivaansh Agarwal</a> !</h2>
 </div>
-<p>
-<em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>&nbsp; Software Engineer at &nbsp; <a href="https://www.temenos.com/"><img alt="Temenos" height="12px" width="60px" src=resources/logos/temenos.png /></a></em><br>
+
+<em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>&nbsp; Software Engineer at &nbsp; <a href="https://www.temenos.com/"><img alt="Temenos" height="15px" width="60px" src=resources/logos/temenos.png /></a></em>
+<br><br>
 <em>🌏 Hyderabad, India 🇮🇳</em>
-</p>
-<br>
+
 
 ### Glad to see you here! &nbsp; 
 
@@ -57,7 +56,7 @@
 <br>
 
 ### Language and Tools 🛠:
-<code><img alt="Javascript" height="40" src="resources/tech/javascript.png"></code>&nbsp;
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" height="40" src="resources/tech/javascript.png"></a></code>&nbsp;
 <code><img alt="Java" height="40" src="resources/tech/java.png"></code>&nbsp;
 <code><img alt="Python" height="40" src="resources/tech/python.png"></code>&nbsp;
 <code><img alt="MySQL" height="40" src="resources/tech/mysql.png"></code>&nbsp;
@@ -70,13 +69,10 @@
 <br>
 <code><img alt="VSCode" height="40" src="resources/tech/vscode.png"></code>&nbsp;
 
-<br>
-
 ### Github Stats:
 
-[![Shivaansh's github stats](https://github-readme-stats.vercel.app/api?username=Shivaansh-Agarwal&count_private=true&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
+![Shivaansh's github stats](https://github-readme-stats.vercel.app/api?username=Shivaansh-Agarwal&count_private=true&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
 
-<br>
 ### Spotify Playing 🎧
 <!-- TODO
 https://spotify-now-playing.shivaansh-agarwal.vercel.app/
