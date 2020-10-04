@@ -27,7 +27,7 @@
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/shivaansh-agarwal/"><img height="30" src="resources/icons/linkedin.png"/></a>&nbsp;&nbsp;
         <!-- Twitter -->
-        <a href="https://twitter.com/Shivansh_97"><img height="30" src="resources/icons/twitter.png"/></a>&nbsp;&nbsp;
+        <a href="httpss://twitter.com/Shivansh_97"><img height="30" src="resources/icons/twitter.png"/></a>&nbsp;&nbsp;
         <!-- Instagram -->
         <a href="https://www.instagram.com/shivaansh.agarwal/"><img height="30" src="resources/icons/instagram.png"/></a>&nbsp;&nbsp;
         <!-- dev.to -->
