@@ -79,3 +79,5 @@ S.No | Project Name | Live | Type
 8(WIP) | Todo Strikethrough | [LIVE](https://t5t7z.csb.app/) | BASIC
 9 | Dark Mode | [LIVE](https://ltvd1.csb.app/) | BASIC
 10 | Like in a List | [LIVE](https://bd66c.csb.app/) | BASIC
+11 | Calculator | [LIVE](https://hxdn3.csb.app/) | BASIC
+12 | Stopwatch | [LIVE](https://bqd8i.csb.app/) | BASIC
