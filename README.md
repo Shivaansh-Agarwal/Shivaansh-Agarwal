@@ -19,9 +19,7 @@
 
 <br/>
 
-### My Work
-
-#### MERN Stack Projects
+## MERN Stack Projects
 S.No | Project Name | Frontend | Backend | Description
 --- | --- | --- | --- | ---
 1 | [Cardboard UI](https://cardboard-ui-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/Cardboard-UI) | - | CSS Component Library.
@@ -29,14 +27,12 @@ S.No | Project Name | Frontend | Backend | Description
 3 | [Fin Tube](https://fin-tube-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/fin-tube) | - | A Place to learn all there's to learn about Personal Finance, Investing from a list of high quality curated content from Youtube.
 4 | [Notes App](https://github.com/Shivaansh-Agarwal/notes-app) | [Frontend](https://notes-app-shivaansh.netlify.app/) | - | Google Keep Clone
 
-<br/>
 
-#### Other Practice Projects
-[Click Here...](https://github.com/Shivaansh-Agarwal/WebApps/blob/main/README.md)
+#### [Check my other practice projects...](https://github.com/Shivaansh-Agarwal/WebApps/blob/main/README.md)
 
 <br/>
 
-### Connect with me 📫:
+## Connect with me 📫:
 <table>
     <tr>
         <td>Social Media
