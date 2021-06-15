@@ -22,11 +22,12 @@
 ### My Work
 
 #### MERN Stack Projects
-S.No | Project Name | Frontend | Backend
---- | --- | --- | ---
-1 | [Cardboard UI](https://cardboard-ui-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/Cardboard-UI) | -
-2 | [Fin Mart](https://fin-mart-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/fin-mart) | [Backend](https://github.com/Shivaansh-Agarwal/fin-mart-backend)
-3 | [Fin Tube](https://fin-tube-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/fin-tube) | -
+S.No | Project Name | Frontend | Backend | Description
+--- | --- | --- | --- | ---
+1 | [Cardboard UI](https://cardboard-ui-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/Cardboard-UI) | - | CSS Component Library.
+2 | [Fin Mart](https://fin-mart-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/fin-mart) | [Backend](https://github.com/Shivaansh-Agarwal/fin-mart-backend) | One stop destination to get the books you need to improve your financial wisdom.
+3 | [Fin Tube](https://fin-tube-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/fin-tube) | - | A Place to learn all there's to learn about Personal Finance, Investing from a list of high quality curated content from Youtube.
+4 | [Notes App](https://github.com/Shivaansh-Agarwal/notes-app) | [Frontend](https://notes-app-shivaansh.netlify.app/) | - | Google Keep Clone
 
 <br/>
 
