@@ -30,7 +30,7 @@ S.No | Project Name | Frontend | Backend
 
 <br/>
 
-#### Other Pracice Projects
+#### Other Practice Projects
 [Click Here...](https://github.com/Shivaansh-Agarwal/WebApps/blob/main/README.md)
 
 <br/>
