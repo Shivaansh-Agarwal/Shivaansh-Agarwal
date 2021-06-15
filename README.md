@@ -58,8 +58,8 @@
 ### My Work
 
 #### MERN Stack Project
---- | --- | ---
 S.No | Project Name | Source Code
+--- | --- | ---
 1 | [Cardboard UI](https://cardboard-ui-dev.netlify.app/) | [App](https://github.com/Shivaansh-Agarwal/Cardboard-UI)
 2 | [Fin Mart](https://fin-mart-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/fin-mart) [Backend](https://github.com/Shivaansh-Agarwal/fin-mart-backend)
 3 | [Fin Tube](https://fin-tube-dev.netlify.app/) | [App](https://github.com/Shivaansh-Agarwal/fin-tube)
