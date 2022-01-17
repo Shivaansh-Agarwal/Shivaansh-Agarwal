@@ -22,10 +22,16 @@
 ## PROJECTS
 S.No | Project Name | Frontend | Backend | Description | Tech Stack
 --- | --- | --- | --- | --- | ---
-1 | [Cardboard UI](https://cardboard-ui-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/Cardboard-UI) | - | CSS Component Library. | ReactJS
+1 | [Quizzo Mania](https://quizzo-mania-shivaansh.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/Quizzo-Mania-Frontend) | [Backend](https://github.com/Shivaansh-Agarwal/Quizzo-Mania-Backend) | A Quiz App | MERN, TailwindCSS
 2 | [Fin Mart](https://fin-mart-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/fin-mart) | [Backend](https://github.com/Shivaansh-Agarwal/fin-mart-backend) | One stop destination to get the books you need to improve your financial wisdom. | ReactJS, ExpressJS, MongoDB
 3 | [Fin Tube](https://fin-tube-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/fin-tube) | - | A Place to learn all there's to learn about Personal Finance, Investing from a list of high quality curated content from Youtube. | ReactJS
-4 | [Notes App](https://github.com/Shivaansh-Agarwal/notes-app) | [Frontend](https://notes-app-shivaansh.netlify.app/) | - | Google Keep Clone | ReactJS
+4 | [Cardboard UI](https://cardboard-ui-dev.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/Cardboard-UI) | - | CSS Component Library. | ReactJS
+
+## WIP & Small Apps
+S.No | Project Name | Frontend | Backend | Description | Tech Stack
+--- | --- | --- | --- | --- | ---
+1 | [Admin-UI](https://admin-ui-shivaansh.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/admin-ui) | - | Dashboard Page | React, TailwindCSS
+2 | [Notes App](notes-app-shivaansh.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/notes-app) | - | Google Keep Clone | ReactJS
 
 <br/>
 
