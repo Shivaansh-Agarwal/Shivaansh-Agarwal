@@ -30,7 +30,7 @@ S.No | Project Name | Frontend | Backend | Description | Tech Stack
 ## WIP & Small Apps
 S.No | Project Name | Frontend | Backend | Description | Tech Stack
 --- | --- | --- | --- | --- | ---
-1 | [Admin-UI](https://admin-ui-shivaansh.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/admin-ui) | - | Dashboard Page | React, TailwindCSS
+1 | [Admin-UI](https://admin-ui-shivaansh.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/admin-ui) | - | Dashboard Page with Pagination | React, TailwindCSS
 2 | [Notes App](notes-app-shivaansh.netlify.app/) | [Frontend](https://github.com/Shivaansh-Agarwal/notes-app) | - | Google Keep Clone | ReactJS
 
 <br/>
