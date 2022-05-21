@@ -1,17 +1,16 @@
 <div>
-<h2>Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://shivaansh-agarwal.netlify.app/index.html">Shivaansh Agarwal</a> !</h2>
+<h2>Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://shivaanshagarwal.com/">Shivaansh Agarwal</a> !</h2>
 </div>
 
-<em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>&nbsp; Software Engineer at &nbsp; <a href="https://www.temenos.com/"><img alt="Temenos" height="15px" width="60px" src=resources/logos/temenos.png /></a></em>
+<em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>&nbsp; Software Engineer at &nbsp; <a href="https://mygate.com/"><img alt="MyGate" height="20px" width="20px" src="https://github.com/Shivaansh-Agarwal/shivaansh-agarwal-nextjs/blob/main/public/images/logo-mygate.jpeg" /> MyGate </a></em>
 <br>
-<em>🌏 Hyderabad, India 🇮🇳</em>
-
+<em>🌏 Bengaluru, India 🇮🇳</em>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Shivaansh-Agarwal.Shivaansh-Agarwal)
 
 [<img align="right" alt="IBM Badge" width="150px" src="resources/logos/Data_Science_4-Star_Graduate.png">](https://www.youracclaim.com/badges/1de4e24e-996d-4795-b028-4a31498cc92f/linked_in_profile)
 
-- 👨🏽‍💻 &nbsp; Currently working with ReactJS, MongoDB, MongoDB, NodeJS, VanillaJS.
+- 👨🏽‍💻 &nbsp; Currently working with ReactJS, NextJS, MongoDB, PostgreSQL, NodeJS, VanillaJS.
 - 🚀 &nbsp; Currently learning Full Stack Development using MERN Stack.
 - 🛠 &nbsp; Have prior experience with Data Science Projects in Machine Learning, Data Analysis using R & Python.
 - :student: Completed my Bachelor's in 2020 with majors in Computer Science with Specialization in Data Analytics.
